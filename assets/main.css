@@ -12,3 +12,7 @@ html,body{
 .content{
     width: 90%;
 }
+
+li a{
+    margin-left: 5px;
+}
